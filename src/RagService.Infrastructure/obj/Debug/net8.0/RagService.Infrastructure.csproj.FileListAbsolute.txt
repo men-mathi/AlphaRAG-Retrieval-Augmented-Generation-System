@@ -1,0 +1,15 @@
+E:\Hackaton\src\RagService.Infrastructure\bin\Debug\net8.0\RagService.Infrastructure.deps.json
+E:\Hackaton\src\RagService.Infrastructure\bin\Debug\net8.0\RagService.Infrastructure.dll
+E:\Hackaton\src\RagService.Infrastructure\bin\Debug\net8.0\RagService.Infrastructure.pdb
+E:\Hackaton\src\RagService.Infrastructure\bin\Debug\net8.0\RagService.Core.dll
+E:\Hackaton\src\RagService.Infrastructure\bin\Debug\net8.0\RagService.Core.pdb
+E:\Hackaton\src\RagService.Infrastructure\obj\Debug\net8.0\RagService.Infrastructure.csproj.AssemblyReference.cache
+E:\Hackaton\src\RagService.Infrastructure\obj\Debug\net8.0\RagService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Hackaton\src\RagService.Infrastructure\obj\Debug\net8.0\RagService.Infrastructure.AssemblyInfoInputs.cache
+E:\Hackaton\src\RagService.Infrastructure\obj\Debug\net8.0\RagService.Infrastructure.AssemblyInfo.cs
+E:\Hackaton\src\RagService.Infrastructure\obj\Debug\net8.0\RagService.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Hackaton\src\RagService.Infrastructure\obj\Debug\net8.0\RagServi.EA7F26BB.Up2Date
+E:\Hackaton\src\RagService.Infrastructure\obj\Debug\net8.0\RagService.Infrastructure.dll
+E:\Hackaton\src\RagService.Infrastructure\obj\Debug\net8.0\refint\RagService.Infrastructure.dll
+E:\Hackaton\src\RagService.Infrastructure\obj\Debug\net8.0\RagService.Infrastructure.pdb
+E:\Hackaton\src\RagService.Infrastructure\obj\Debug\net8.0\ref\RagService.Infrastructure.dll

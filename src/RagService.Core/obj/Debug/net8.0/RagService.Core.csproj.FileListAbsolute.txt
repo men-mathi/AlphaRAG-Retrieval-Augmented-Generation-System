@@ -1,0 +1,11 @@
+E:\Hackaton\src\RagService.Core\bin\Debug\net8.0\RagService.Core.deps.json
+E:\Hackaton\src\RagService.Core\bin\Debug\net8.0\RagService.Core.dll
+E:\Hackaton\src\RagService.Core\bin\Debug\net8.0\RagService.Core.pdb
+E:\Hackaton\src\RagService.Core\obj\Debug\net8.0\RagService.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Hackaton\src\RagService.Core\obj\Debug\net8.0\RagService.Core.AssemblyInfoInputs.cache
+E:\Hackaton\src\RagService.Core\obj\Debug\net8.0\RagService.Core.AssemblyInfo.cs
+E:\Hackaton\src\RagService.Core\obj\Debug\net8.0\RagService.Core.csproj.CoreCompileInputs.cache
+E:\Hackaton\src\RagService.Core\obj\Debug\net8.0\RagService.Core.dll
+E:\Hackaton\src\RagService.Core\obj\Debug\net8.0\refint\RagService.Core.dll
+E:\Hackaton\src\RagService.Core\obj\Debug\net8.0\RagService.Core.pdb
+E:\Hackaton\src\RagService.Core\obj\Debug\net8.0\ref\RagService.Core.dll

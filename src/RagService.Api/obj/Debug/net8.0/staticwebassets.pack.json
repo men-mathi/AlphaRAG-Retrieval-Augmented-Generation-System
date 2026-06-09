@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Hackaton\\src\\RagService.Api\\wwwroot\\app.js",
+      "PackagePath": "staticwebassets\\app.js"
+    },
+    {
+      "Id": "E:\\Hackaton\\src\\RagService.Api\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "E:\\Hackaton\\src\\RagService.Api\\wwwroot\\style.css",
+      "PackagePath": "staticwebassets\\style.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.RagService.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.RagService.Api.props",
+      "PackagePath": "build\\RagService.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.RagService.Api.props",
+      "PackagePath": "buildMultiTargeting\\RagService.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.RagService.Api.props",
+      "PackagePath": "buildTransitive\\RagService.Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
