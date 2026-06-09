@@ -164,3 +164,4 @@ curl -X POST http://localhost:5174/chat \
 }
 ```
 *(If Ollama/OpenAI is offline or unconfigured, the API will output a detailed debug log representing the generated prompt context, showing exactly what it retrieved and formatted).*
+"# AlphaRAG-Retrieval-Augmented-Generation-System" 
